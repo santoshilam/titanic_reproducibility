@@ -27,6 +27,5 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.svm import SVC, LinearSVC
 from sklearn.naive_bayes import GaussianNB
-test_df = pd.read_csv("C:\\Users\\santo\\titanic_reproducibility\\data\\processed\\test.csv")
-train_df = pd.read_csv("C:\\Users\\santo\\titanic_reproducibility\\data\\processed\\train.csv")
-train_df.info()
+test_df = pd.read_csv(".\\data\\processed\\test.csv")
+train_df = pd.read_csv(".\\data\\processed\\train.csv")
