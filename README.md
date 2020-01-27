@@ -2,7 +2,17 @@
 
 Version 0.1.0
 
-writing reproducible code in Python using existing public "titanic" dataset and code published on kaggle
+Writing reproducible code in Python using existing public "titanic" dataset and code published on kaggle by Niklas Donge check out the project at https://www.kaggle.com/niklasdonges/end-to-end-project-with-python . 
+
+This was a machine learning project that I decided to "borrow and butcher" for the reproducibility workshop.
+
+This code was originally written in Jupyter notebook, but shared here after editing in the Spyder IDE. The version of Spyder used is Spyder 3.2.8 using Python 3.6. Both of these from the Anaconda https://docs.anaconda.com/anaconda/navigator/
+Note: all of this was done on a Windows 10 not tested on any other platform. 
+
+To run the project, execute the script Titanic_repro_end_to_end_from_kaggle.py
+The best way to do this is to clone the repository and then have titanic_reproducibility as the working directory.
+
+
 
 
 ## Project organization
